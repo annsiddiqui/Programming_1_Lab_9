@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\n\ Computes\ the\ Manhattan\ distance\ bepuween\ two\ points\ given\ by\ the\ user..\n\n\ @assumptions\ User\ enters\ only\ numbers.\n\ @errors\ None\n\n\ @author\ \ Qurrat-al-Ain\ Siddiqui\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=a\ b
+comment3.target=double\ computeDistance(Point,\ Point)
+comment3.text=\n\ Computes\ the\ Manhattan\ distance\ between\ two\ points.\ \ The\ Manhattan\ distance\n\ is\ equal\ to\ the\ difference\ in\ the\ x\ coordinates\ plus\ the\ difference\ in\ the\n\ y\ coordinates.\n\n\ @param\ a\ The\ first\ point.\n\ @param\ b\ The\ second\ point.\n\ @return\ The\ Manhattan\ distance\ between\ point\ a\ and\ point\ b.\n
+comment4.params=
+comment4.target=Point\ readPoint()
+comment4.text=\n\ Reads\ an\ x\ and\ y\ coordinate\ from\ te\ user\ and\ returns\ a\ point\ object\ with\n\ the\ specified\ x\ and\ y\ coordinates.\n\n\ @return\ A\ new\ point\ object\ with\ x\ and\ y\ coordinates\ as\ specified\ by\ the\n\ \ \ \ \ \ \ \ \ user.\n
+numComments=5
